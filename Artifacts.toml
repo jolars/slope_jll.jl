@@ -1,0 +1,9 @@
+[[slope]]
+arch = "x86_64"
+git-tree-sha1 = "03b5e789527b59e32da45a2665df2e612b9a06ec"
+libc = "glibc"
+os = "linux"
+
+    [[slope.download]]
+    sha256 = "2beb8368a976ebb68a7e8c0b2aee7c53cf81a56a3a72a6685d107a860a1e7902"
+    url = "https://github.com/jolars/slope_jll.jl/releases/download/slope-v2.1.0+0/slope.v2.1.0.x86_64-linux-gnu.tar.gz"
